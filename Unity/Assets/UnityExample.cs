@@ -19,8 +19,8 @@ using UnityEngine.Events;
 public class UnityExample : MonoBehaviour
 {
     //Paste key/license strings here
-    private string key = "";
-    private string license = "";
+    private string key = "MIIBKjCB4wYHKoZIzj0CATCB1wIBATAsBgcqhkjOPQEBAiEA/////wAAAAEAAAAAAAAAAAAAAAD///////////////8wWwQg/////wAAAAEAAAAAAAAAAAAAAAD///////////////wEIFrGNdiqOpPns+u9VXaYhrxlHQawzFOw9jvOPD4n0mBLAxUAxJ02CIbnBJNqZnjhE50mt4GffpAEIQNrF9Hy4SxCR/i85uVjpEDydwN9gS3rM6D0oTlF2JjClgIhAP////8AAAAA//////////+85vqtpxeehPO5ysL8YyVRAgEBA0IABHs9kZBzvAX3g2QBkdwPUhTEG7wqMMQSS71TecZ6B/0upAbPoglRAiybsU20M1crjl5kP1GopxhNyuMRt32w4FI=";//"EYP88-4VLIQ-X8F77-1AK07-RR9T8";
+    private string license = "<License>  <Id>56bab80a-9119-4331-a3c5-da1c7de2de34</Id>  <Type>Standard</Type>  <Quantity>10</Quantity>  <LicenseAttributes>    <Attribute name='Software'></Attribute>  </LicenseAttributes>  <ProductFeatures>    <Feature name='Sales'>True</Feature>    <Feature name='Billing'>False</Feature>  </ProductFeatures>  <Customer>    <Name>Momona Yamagami</Name>    <Email>momona@rice.edu</Email>  </Customer>  <Expiration>Sat, 03 Mar 2035 05:00:00 GMT</Expiration>  <Signature>MEUCIH1TgdvnEVwLfEBdIJqE/wtR91TUMiwRj7eLrbjzhk5IAiEAwvizynXFWA4DZwqVTjM5K4ojsHXIfLfRtqVi5j2yWr0=</Signature></License>";//"<License>  <Id>4122c7f5-abd0-4c00-9ac0-1b5768504b06</Id>  <Type>Standard</Type>  <Quantity>10</Quantity>  <LicenseAttributes>    <Attribute name='Software'></Attribute>  </LicenseAttributes>  <ProductFeatures>    <Feature name='Sales'>True</Feature>    <Feature name='Billing'>False</Feature>  </ProductFeatures>  <Customer>    <Name>Mikayla Deehring</Name>    <Email>md105@rice.edu</Email>  </Customer>  <Expiration>Sun, 31 Dec 2034 05:00:00 GMT</Expiration>  <Signature>MEQCIAJ9Q4VGV0bypTWMFhsZJ1DkzJar8bzcS1TYcPwn/REVAiAArSLnI10Uly3ustyZnBO+UhMCl1DFKBEbV5jjahrskQ==</Signature></License>";
 
 
     /// <summary>
